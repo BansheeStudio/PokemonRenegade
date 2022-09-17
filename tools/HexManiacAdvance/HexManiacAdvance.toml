@@ -1,0 +1,25 @@
+[GeneralSettings]
+LogAppStartupProgress = False
+UseTableEntryHeaders = True
+AllowSingleTableMode = True
+ShowMatrixGrid = True
+FocusOnGotoShortcuts = True
+ZoomLevel = 16
+MaximumDiffSegments = 1000
+CopyLimit = 40000
+AnimateScroll = True
+AutoAdjustDataWidth = True
+StretchData = True
+AllowMultipleElementsPerLine = True
+IsNewVersionAvailable = False
+LastUpdateCheck = 13/09/2022 10:00:27 AM
+AcknowledgeTutorials = False
+RecentFiles = ["D:\GitHub\PokemonRenegade\Pokemon - Fire Red Version (U) (V1.0).gba"]
+
+[Theme]
+PrimaryColor = "#DDDDDD"
+BackgroundColor = "#222222"
+HueOffset= 0.1
+AccentSaturation = 0.7
+AccentValue = 0.7
+HighlightBrightness = 0.6
